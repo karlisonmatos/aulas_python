@@ -9,4 +9,4 @@ print(imc)
 
 # Karlison Matos te, 1.63 de altura,
 # pesa 6 quilos e seu IMC é
-# # IMC 
+# IMC 
